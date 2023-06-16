@@ -9,4 +9,8 @@
       <suppress checks="WhitespaceAfter" files="."/>
       <suppress checks="JavadocMethod" files="."/>
       <suppress checks="JavadocStyle" files="."/>
+      <suppress checks="javadoc" files="."/>
+      <suppress checks="FinalClass" files="."/>
+      <suppress checks="HideUtilityClassConstructor" files="."/>
+      <suppress checks="FileTabCharacter" files="."/>
 </suppressions>
