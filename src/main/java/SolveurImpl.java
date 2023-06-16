@@ -19,7 +19,7 @@ public final boolean solve(final Grille grille) {
 char valeur;
 GrilleImpl gg = (GrilleImpl) grille;
 
-Set<ElementDeGrille> el = new HashSet<ElementDeGrille>();
+Set<ElementDeGrille> el;
 el = gg.getElements();
 ElementDeGrilleImplAsChar v;
 int dimension = gg.getDimension();
