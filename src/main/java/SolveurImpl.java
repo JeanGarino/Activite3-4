@@ -1,6 +1,5 @@
 package c306.sudoku;
 import java.util.Set;
-import java.util.HashSet;
 
 /**
  * Interface de résolveur de Grille.
